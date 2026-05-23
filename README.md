@@ -218,12 +218,6 @@ The app is fully responsive across all screen sizes:
 
 ---
 
-## 📄 License
-
-This project is private and proprietary.
-
----
-
 ## 👤 Author
 
 **Alamin** — [GitHub](https://github.com/alamin-87)
