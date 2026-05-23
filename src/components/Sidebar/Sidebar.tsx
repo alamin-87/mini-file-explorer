@@ -1,6 +1,6 @@
 "use client";
 
-import { HardDrive } from "lucide-react";
+import { FolderTree } from "lucide-react";
 import { useFileSystem } from "@/context/FileSystemContext";
 import TreeNode from "./TreeNode";
 
@@ -11,7 +11,7 @@ export default function Sidebar() {
     <div className="flex flex-col h-full bg-gray-900 border-r border-gray-700">
       {/* Header */}
       <div className="flex items-center gap-2 px-4 py-4 border-b border-gray-700">
-        <HardDrive size={18} className="text-blue-400" />
+        <FolderTree size={18} className="text-blue-400" />
         <span className="text-sm font-semibold text-white tracking-wide">
           Webbly Media Drive
         </span>
